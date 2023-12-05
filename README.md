@@ -8,13 +8,13 @@ The universe is filled with galaxies at various distances from us. Detecting and
 
 ## Gallery
 
-Here are some visualizations from the analysis:
+Here are some visualizations from our analysis:
 
-![Image 1 Description](images/Max.jpg)
-*Image 1: Distant galaxy detection.*
+<img src="images/Max.jpg" width="400" alt="Image 1 Description">
+*Galaxy detection using MUSE dataset.*
 
-![Image 2 Description](images/lambda.jpg)
-*Image 2: Corresponding wavelenght.*
+<img src="images/lambda.jpg" width="400" alt="Image 2 Description">
+*Corresponding wavelenght*
 
 
 ## Features
