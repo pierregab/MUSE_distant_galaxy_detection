@@ -10,10 +10,10 @@ The universe is filled with galaxies at various distances from us. Detecting and
 
 Here are some visualizations from our analysis:
 
-<img src="images/Max.jpg" width="400" alt="Image 1 Description"><br>
+<img src="images/Max.jpg" width="600" alt="Image 1 Description"><br>
 *Galaxy detection using MUSE dataset.*
 
-<img src="images/lambda.jpg" width="400" alt="Image 2 Description"><br>
+<img src="images/lambda.jpg" width="600" alt="Image 2 Description"><br>
 *Corresponding wavelength.*
 
 
