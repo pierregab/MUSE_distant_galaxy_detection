@@ -10,10 +10,10 @@ The universe is filled with galaxies at various distances from us. Detecting and
 
 Here are some visualizations from the analysis:
 
-![Image 1 Description](images/image1.png)
+![Image 1 Description](images/lambda.jpg)
 *Image 1: Distant galaxy detection.*
 
-![Image 2 Description](images/image2.png)
+![Image 2 Description](images/max.jpg)
 *Image 2: Corresponding wavelenght.*
 
 
